@@ -36,6 +36,5 @@ Disclaimer: This repository is intended exclusively for educational security res
 
 Project Structure
 Plaintext
-├── sqli_test.py     # Main execution script for security testing
-├── payloads.txt     # List of test payloads for learning purposes
+├── SQLinjection.py     # Main execution script for security testing
 └── README.md        # Documentation
